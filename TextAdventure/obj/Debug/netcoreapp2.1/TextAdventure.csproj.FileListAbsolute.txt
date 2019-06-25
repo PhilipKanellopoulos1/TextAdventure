@@ -1,0 +1,11 @@
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp2.1\TextAdventure.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp2.1\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp2.1\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp2.1\TextAdventure.AssemblyInfo.cs
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp2.1\TextAdventure.deps.json
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp2.1\TextAdventure.runtimeconfig.json
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp2.1\TextAdventure.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp2.1\TextAdventure.dll
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp2.1\TextAdventure.pdb
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp2.1\TextAdventure.dll
+C:\Users\Philip\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp2.1\TextAdventure.pdb
